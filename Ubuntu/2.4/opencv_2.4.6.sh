@@ -4,7 +4,7 @@ flag=1
 else
 flag=0
 fi
-echo "Installing OpenCV 2.4.2"
+echo "Installing OpenCV 2.4.6"
 
 echo "Removing any pre-installed ffmpeg and x264"
 sudo apt-get remove ffmpeg x264 libx264-dev
